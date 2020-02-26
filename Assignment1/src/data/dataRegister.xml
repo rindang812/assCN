@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><REGISTERS>
+    <REGISTER>
+        <USER_NAME>admin</USER_NAME>
+        <PASSWORD>a</PASSWORD>
+        <FRIEND>user1</FRIEND>
+    </REGISTER>
+
+    <REGISTER><USER_NAME>user1</USER_NAME>
+        <PASSWORD>1</PASSWORD>
+        <FRIEND>admin</FRIEND></REGISTER><REGISTER><USER_NAME>user5</USER_NAME><PASSWORD>1</PASSWORD><FRIEND></FRIEND></REGISTER></REGISTERS>
